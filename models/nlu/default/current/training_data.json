@@ -1,0 +1,97 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "asu",
+        "text": "ich wurde fristlos gekuendigt, was ist zu tun?"
+      },
+      {
+        "intent": "asu",
+        "text": "ich wurde gekuendigt und moechte mich gerne arbeitslos melden"
+      },
+      {
+        "intent": "asu",
+        "text": "ich bin ab kommender Woche arbeitslos und weiss nicht was ich machen soll"
+      },
+      {
+        "intent": "asu",
+        "text": "heute habe ich eine kuendigung erhalten und melde mich hiermit"
+      },
+      {
+        "intent": "asu",
+        "text": "mein betrieb hat mich gekuendigt, was soll ich jetzt machen?"
+      },
+      {
+        "intent": "asu",
+        "text": "wie kann ich mich arbeitssuchend melden?"
+      },
+      {
+        "intent": "asu",
+        "text": "was ist zu tun, wenn mir mein chef gerade gekuendigt hat"
+      },
+      {
+        "intent": "asu",
+        "text": "ich wurde gerade rausgeworfen, ich bitte um hilfe"
+      },
+      {
+        "intent": "set",
+        "text": "ich habe mein abitur und weiss nicht was ich machen soll"
+      },
+      {
+        "intent": "set",
+        "text": "ich brauche beratung welche ausbildung ich angehen soll"
+      },
+      {
+        "intent": "set",
+        "text": "ich brauche hilfe beim finden meines Studiums"
+      },
+      {
+        "intent": "set",
+        "text": "ich weiss nicht, was ich studieren soll"
+      },
+      {
+        "intent": "set",
+        "text": "ich habe keine orientierung nach meinem Schulabschluss"
+      },
+      {
+        "intent": "set",
+        "text": "ich weiss nicht, ob und was ich studieren soll"
+      },
+      {
+        "intent": "set",
+        "text": "soll ich nach dem Abitur eine Ausbildung oder ein Stium machen"
+      },
+      {
+        "intent": "set",
+        "text": "ich habe keine vorstellung, welchen Studiengang ich wqehlen soll"
+      },
+      {
+        "intent": "zahlung",
+        "text": "wo ist mein geld?"
+      },
+      {
+        "intent": "zahlung",
+        "text": "ich habe diesen Monat noch kein Geld erhalten"
+      },
+      {
+        "intent": "zahlung",
+        "text": "bis jetzt gab es keine Zahlung"
+      },
+      {
+        "intent": "zahlung",
+        "text": "Schon wieder gibt es Probleme mit dem Zahlungseingang"
+      },
+      {
+        "intent": "zahlung",
+        "text": "Ich habe kein geld erhalten"
+      },
+      {
+        "intent": "zahlung",
+        "text": "Seit Tagen fehlt schon das Geld, es wird dringend gebraucht"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
